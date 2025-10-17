@@ -1,0 +1,5 @@
+
+/* Single-folder portfolio styles */
+html { scroll-behavior: smooth; }
+.prose a { text-decoration: underline; }
+.shadow-soft { box-shadow: 0 8px 30px rgba(0,0,0,.06); }
